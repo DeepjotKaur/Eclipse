@@ -1,0 +1,9 @@
+import java.util.LinkedList;
+
+public class LinkedLIst {
+	static LinkedList list;
+	public static void main(String[] args){
+		list = new LinkedList();
+	}
+	
+}
